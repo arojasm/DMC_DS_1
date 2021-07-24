@@ -30,4 +30,9 @@ peso del recurso
 fechas modificacion
 nombre del recurso
 
+CARPETA RAIZ DE HDFS
+-----------------------
+hdfs dfs -ls /
+
+
 
