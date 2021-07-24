@@ -1,0 +1,10 @@
+
+
+
+-- comandos LINUX
+-- listar 
+ls
+ls -lh
+
+-- mostrar carpetas oculpas
+ls -la  
