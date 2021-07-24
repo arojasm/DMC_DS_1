@@ -8,3 +8,6 @@ ls -lh
 
 -- mostrar carpetas oculpas
 ls -la  
+
+-- crear archivos en linux
+touch test.txt 
