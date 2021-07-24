@@ -11,3 +11,7 @@ ls -la
 
 -- crear archivos en linux
 touch test.txt 
+
+-- crear carpetas en linux
+mkdir prueba
+
