@@ -34,5 +34,7 @@ CARPETA RAIZ DE HDFS
 -----------------------
 hdfs dfs -ls /
 
+--listar carpetas de user ( compn hadoop)
+hdfs dfs -ls /user
 
 
