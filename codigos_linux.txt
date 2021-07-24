@@ -38,3 +38,9 @@ hdfs dfs -ls /
 hdfs dfs -ls /user
 
 
+-- para consultar los comandos realizados
+history
+
+-- para exportar los comandos en un archivo
+history > comandos.txt
+
